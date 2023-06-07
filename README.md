@@ -2,6 +2,8 @@
 
 Each year, banks are inundated with hundreds of credit card applications. The approval process for each application relies on several crucial factors, such as income level, delinquency records, and credit history. However, manually reviewing every single application can be an tedious, error-prone, and time-consuming task. Fortunately, the power of machine learning offers an automated solution to streamline this process. Nowadays, the majority, if not all, banks utilize machine learning algorithms to detect credit card approval. In this project, I aim to develop a credit card approval prediction by using machine learning techniques.
 
+![credit_cards jpeg-1-1-900x510](https://github.com/L98S/step-by-step-credit-card-approvals-prediction/assets/110102931/a683f38f-0358-45a1-8f7e-4e8d6bad80cf)
+
 
 ## You will find in the repository: 
 1. The data 
